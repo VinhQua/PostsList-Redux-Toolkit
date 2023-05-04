@@ -1,20 +1,13 @@
-
 import AddPostForm from "./features/posts/AddPostForm";
 import PostsList from "./features/posts/PostsList";
 
-
-const App=()=> {
- 
-    
+const App = () => {
   return (
     <div className="App">
-      <PostsList/>
-      <AddPostForm/>
+      <AddPostForm />
+      <PostsList />
     </div>
   );
-}
-
-
-
+};
 
 export default App;
