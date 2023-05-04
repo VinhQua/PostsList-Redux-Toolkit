@@ -1,8 +1,0 @@
-
-.arena{
-    width: 800px;
-    height: 800px;
-    background:transparent;
-    display:flex;
-    flex-flow:row wrap;
-}
